@@ -1,6 +1,6 @@
 # Jobs
 # Director of Digital Stratgy
-# company: Condensed Matter Theory Group, T.D. 
+  company: Condensed Matter Theory Group, T.D. 
 # position: Director of Digital Strategy
   duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 1/2018 &mdash; Present
   summary: Spin fermion model is an effective model to describe metallic antiferromagnetic correlations observed in iron-based superconductors, consisting of both itinerant electrons and localized spins. I am using this model to investigate the antiferromagnetic order in the iron vacancy compound KFe<sub>1.5</sub>Se<sub>2</sub>.<ul class="resume-item-list"><li>Calculated the total energy of experimentally observed antiferromagnetic ordered KFe<sub>1.5</sub>Se<sub>2</sub> with other hypothetical magnetic orders, verified that the experimentally observed one indeed has lower energy.</li><li>Calculated the total energy of these magnetic orders in the spin fermion model, found that the experimentally observed one is more stable. (In order to do a more realistic calculation, we extracted the tight binding parameter from DFT calculation of nonmagnatic FeSe, consisting of both Fe's 3d orbital and Se's 4p orbital)</li><li>Currently working on coming up with a simple picture that explained the stablization of experimentally observed antiferromagnetic order</li>
