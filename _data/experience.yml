@@ -3,18 +3,13 @@
 - company: Wei's Condensed Matter Theory Group, Tsung-Dao Lee Institute, SJTU
 # position: Director of Digital Strategy
   duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 1/2018 &mdash; Present
-  summary: Spin fermion model is an effective model to describe metallic antiferromagnetic correlations observed in iron-based superconductors. I am using this model to investigate the antiferromagnetic (AFM) order in the iron vacancy compound KFe<sub>1.5</sub>Se<sub>2</sub>.<ul class="resume-item-list">
-  <li>Performing DFT calculations on KFe<sub>1.5</sub>Se<sub>2</sub> with experimentally observed AFM order and several hypothetical orders.</li>
-  <li>With spin fermion model, calculated total energies of these magnetic orders. (In order to do a more realistic calculation, we extracted the tight binding parameter from DFT calculation of nonmagnatic FeSe, consisting of both Fe's 3d orbital and Se's 4p orbital)</li>
-  <li>Currently working on coming up with a simple picture that explaines the stablization of experimentally observed antiferromagnetic order.</li>
+  summary: Spin fermion model is an effective model to describe metallic antiferromagnetic correlations observed in iron-based superconductors. I am using this model to investigate the antiferromagnetic (AFM) order in the iron vacancy compound KFe<sub>1.5</sub>Se<sub>2</sub>.<ul class="resume-item-list"><li>Performing DFT calculations on KFe<sub>1.5</sub>Se<sub>2</sub> with experimentally observed AFM order and several hypothetical orders.</li><li>With spin fermion model, calculated total energies of these magnetic orders. (In order to do a more realistic calculation, we extracted the tight binding parameter from DFT calculation of nonmagnatic FeSe, consisting of both Fe's 3d orbital and Se's 4p orbital)</li><li>Currently working on coming up with a simple picture that explaines the stablization of experimentally observed antiferromagnetic order.</li>
 
 # Communications Coordinator
 - company: Wei's Condensed Matter Theory Group, Tsung-Dao Lee Institute, SJTU
 #  position: Communications Coordinator
   duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 10/2017 &mdash; 12/2017
-  summary: In the superconducting compound CaFeAs<sub>2</sub>, arsenic has an unusual average valence of As<sup>2-</sup>. I investigated its origin through analyzing electronic properties of CaFeAs<sub>2</sub>.<ul class="resume-item-list">
-  <li>Performed first-principles calculations on CaFeAs<sub>2</sub>, anaylized its band structure, density of states, electron density.</li>
-  <li>Found that arsenic atoms from As layer and FeAs layer form different energy bands, and have valence counts of As<sup>-</sup> and As<sup>3-</sup> respectively, resulting in the As<sup>2-</sup> valence in average.</li>
+  summary: In the superconducting compound CaFeAs<sub>2</sub>, arsenic has an unusual average valence of As<sup>2-</sup>. I investigated its origin through analyzing electronic properties of CaFeAs<sub>2</sub>.<ul class="resume-item-list"><li>Performed first-principles calculations on CaFeAs<sub>2</sub>, anaylized its band structure, density of states, electron density.</li><li>Found that arsenic atoms from As layer and FeAs layer form different energy bands, and have valence counts of As<sup>-</sup> and As<sup>3-</sup> respectively, resulting in the As<sup>2-</sup> valence in average.</li>
 
 # Communications Coordinator
 - company: Numerical Simulation of Laser Beam Melting of Metal Substrate
