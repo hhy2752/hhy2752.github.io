@@ -1,19 +1,28 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+# company: Condensed Matter Theory Group, T.D. 
+#  position: Director of Digital Strategy
+  duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 1/2018 &mdash; Present
+  summary: Spin fermion model is an effective model to describe metallic antiferromagnetic correlations observed in iron-based superconductors, consisting of both itinerant electrons and localized spins. I am using this model to investigate the antiferromagnetic order in the iron vacancy compound KFe<sub>1.5</sub>Se<sub>2</sub>.
+  <ul class="resume-item-list"><li>Calculated the total energy of experimentally observed antiferromagnetic ordered KFe<sub>1.5</sub>Se<sub>2</sub> with other hypothetical magnetic orders, verified that the experimentally observed one indeed has lower energy.</li>
+  <li>Calculated the total energy of these magnetic orders in the spin fermion model, found that the experimentally observed one is more stable. (In order to do a more realistic calculation, we extracted the tight binding parameter from DFT calculation of nonmagnatic FeSe, consisting of both Fe's 3d orbital and Se's 4p orbital)</li>
+  <li>Currently working on coming up with a simple picture that explained the stablization of experimentally observed antiferromagnetic order</li>
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# company: 
+#  position: Communications Coordinator
+  duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 10/2017 &mdash; 12/2017
+  summary: In the superconducting compound CaFeAs<sub>2</sub>, arsenic has an unusual average valence of As<sup>2-</sup>. I investigated its origin from electronic properties of CaFeAs<sub>2</sub>.
+<ul class="resume-item-list">
+<li>Performed first-principles calculations on CaFeAs<sub>2</sub>, anaylized its band structure, density of states, electron density</li>
+<li>Found that arsenic atoms from As layer and FeAs layer form different energy bands, and have valence counts of As<sup>-</sup> and As<sup>3-</sup> respectively, resulting in the As<sup>2-</sup> valence in average.</li>
+
+# Communications Coordinator
+ company: Numerical Simulation of Laser Beam Melting of Metal Substrate
+#  position: Communications Coordinator
+  duration: Supervisor &#58; Prof. Lin Xu &emsp; &emsp; &bull; 3/2017 &mdash; 10/2017
+  summary: 
+<ul class="resume-item-list">
+<li>Based on the continuity equation, the equation of heat conduction and the Navier-Stokes equation the laser material interaction was described.</li>
+<li>Discretized the governing equations and solved them using iterative method, simulated thermo and fluid dynamics of laser beam melting of metal substrate.</li>
+<li>Investigated the infuence from different process parameters on the thermo and fluid dynamics of laser beam mealting process. (metal pool melting speed, final size of melting metal pool, etc.)</li>
