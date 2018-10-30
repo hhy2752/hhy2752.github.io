@@ -1,18 +1,23 @@
 # Jobs
 # Director of Digital Stratgy
-# company: Condensed Matter Theory Group, T.D. 
+- company: Wei's Condensed Matter Theory Group, Tsung-Dao Lee Institute, SJTU
 # position: Director of Digital Strategy
-- duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 1/2018 &mdash; Present
-  summary: Spin fermion model is an effective model to describe metallic antiferromagnetic correlations observed in iron-based superconductors, consisting of both itinerant electrons and localized spins. I am using this model to investigate the antiferromagnetic order in the iron vacancy compound KFe<sub>1.5</sub>Se<sub>2</sub>.<ul class="resume-item-list"><li>Calculated the total energy of experimentally observed antiferromagnetic ordered KFe<sub>1.5</sub>Se<sub>2</sub> with other hypothetical magnetic orders, verified that the experimentally observed one indeed has lower energy.</li><li>Calculated the total energy of these magnetic orders in the spin fermion model, found that the experimentally observed one is more stable. (In order to do a more realistic calculation, we extracted the tight binding parameter from DFT calculation of nonmagnatic FeSe, consisting of both Fe's 3d orbital and Se's 4p orbital)</li><li>Currently working on coming up with a simple picture that explained the stablization of experimentally observed antiferromagnetic order</li>
+  duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 1/2018 &mdash; Present
+  summary: Spin fermion model is an effective model to describe metallic antiferromagnetic correlations observed in iron-based superconductors. I am using this model to investigate the antiferromagnetic order in the iron vacancy compound KFe<sub>1.5</sub>Se<sub>2</sub>.<ul class="resume-item-list">
+  <li>Calculated the total energy of experimentally observed antiferromagnetic ordered KFe<sub>1.5</sub>Se<sub>2</sub> with other hypothetical magnetic orders, verified that the experimentally observed one indeed has lower energy.</li>
+  <li>Calculated the total energy of these magnetic orders in the spin fermion model, found that the experimentally observed one is more stable. (In order to do a more realistic calculation, we extracted the tight binding parameter from DFT calculation of nonmagnatic FeSe, consisting of both Fe's 3d orbital and Se's 4p orbital)</li>
+  <li>Currently working on coming up with a simple picture that explained the stablization of experimentally observed antiferromagnetic order.</li>
 
 # Communications Coordinator
-# company: 
+- company: Wei's Condensed Matter Theory Group, Tsung-Dao Lee Institute, SJTU
 #  position: Communications Coordinator
-- duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 10/2017 &mdash; 12/2017
-  summary: In the superconducting compound CaFeAs<sub>2</sub>, arsenic has an unusual average valence of As<sup>2-</sup>. I investigated its origin from electronic properties of CaFeAs<sub>2</sub>.<ul class="resume-item-list"><li>Performed first-principles calculations on CaFeAs<sub>2</sub>, anaylized its band structure, density of states, electron density</li><li>Found that arsenic atoms from As layer and FeAs layer form different energy bands, and have valence counts of As<sup>-</sup> and As<sup>3-</sup> respectively, resulting in the As<sup>2-</sup> valence in average.</li>
+  duration: Supervisor &#58; Prof. Wei Ku &emsp; &emsp; &bull; 10/2017 &mdash; 12/2017
+  summary: In the superconducting compound CaFeAs<sub>2</sub>, arsenic has an unusual average valence of As<sup>2-</sup>. I investigated its origin through analyzing electronic properties of CaFeAs<sub>2</sub>.<ul class="resume-item-list">
+  <li>Performed first-principles calculations on CaFeAs<sub>2</sub>, anaylized its band structure, density of states, electron density.</li>
+  <li>Found that arsenic atoms from As layer and FeAs layer form different energy bands, and have valence counts of As<sup>-</sup> and As<sup>3-</sup> respectively, resulting in the As<sup>2-</sup> valence in average.</li>
 
 # Communications Coordinator
-# company: 
+- company: Numerical Simulation of Laser Beam Melting of Metal Substrate
 #  position: Communications Coordinator
-- duration: Supervisor &#58; Prof. Lin Xu &emsp; &emsp; &bull; 3/2017 &mdash; 10/2017
-  summary: Numerical Simulation of Laser Beam Melting of Metal Substrate <ul class="resume-item-list"><li>Based on the continuity equation, the equation of heat conduction and the Navier-Stokes equation the laser material interaction was described.</li><li>Discretized the governing equations and solved them using iterative method, simulated thermo and fluid dynamics of laser beam melting of metal substrate.</li><li>Investigated the infuence from different process parameters on the thermo and fluid dynamics of laser beam mealting process. (metal pool melting speed, final size of melting metal pool, etc.)</li>
+  duration: Supervisor &#58; Prof. Lin Xu &emsp; &emsp; &bull; 3/2017 &mdash; 10/2017
+  summary:  <ul class="resume-item-list"><li>Based on the continuity equation, the equation of heat conduction and the Navier-Stokes equation the laser material interaction was described.</li><li>Discretized the governing equations and solved them using iterative method, simulated thermo and fluid dynamics of laser beam melting of metal substrate.</li><li>Investigated the infuence from different process parameters on the thermo and fluid dynamics of laser beam mealting process. (metal pool melting speed, final size of melting metal pool, etc.)</li>
